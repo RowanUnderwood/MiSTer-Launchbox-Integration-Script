@@ -15,7 +15,7 @@ Before using these scripts, please ensure your MiSTer setup meets the following 
 
 ## **The Scripts**
 
-### **1\. Launcher Generator (create\_launchers\_v2.py)**
+### **1\. Launcher Generator (Create_MiSter_Launchbox_FilesV10.py)**
 
 This is the core script for setting up your game launchers.
 
